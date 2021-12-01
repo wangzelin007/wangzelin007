@@ -16,13 +16,13 @@ I am Zelin Wang.
 
 ## 🌱 Skills
 
-<a href="https://www.python.org" target="_blank"> <img src="https://github.com/wangzelin007/wangzelin007/blob/main/icons/ansible.png" align="left" alt="Ansible" width="26px"/></a>
-<a href="https://etcd.io/" target="_blank"><img src="https://github.com/wangzelin007/wangzelin007/blob/main/icons/etcd.png" align="left" alt="Etcd" width="28px"/></a>
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"><img src="https://github.com/wangzelin007/wangzelin007/blob/main/icons/flask.png" align="left" alt="Flask" width="30px"/></a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/wangzelin007/wangzelin007/blob/main/icons/mysql.png" align="left" alt="Mysql" width="26px"/> </a>
-<a href="https://www.openstack.org/" target="_blank"> <img src="https://github.com/wangzelin007/wangzelin007/blob/main/icons/openstack.png" align="left" alt="Openstack" width="26px"/> </a>
-<a href="https://www.postgresql.org/" target="_blank"> <img src="https://github.com/wangzelin007/wangzelin007/blob/main/icons/postgre.png" align="left" alt="Postgre" width="26px"/> </a>
-<a href="https://redis.io/" target="_blank"> <img src="https://github.com/wangzelin007/wangzelin007/blob/main/icons/redis.png" align="left" alt="Redis" width="26px"/> </a>
+<a href="https://www.ansible.com/" target="_blank"> <img src="https://github.com/wangzelin007/wangzelin007/blob/main/icons/ansible.png" align="left" alt="Ansible" width="50px"/></a>
+<a href="https://etcd.io/" target="_blank"><img src="https://github.com/wangzelin007/wangzelin007/blob/main/icons/etcd.png" align="left" alt="Etcd" width="50px"/></a>
+<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"><img src="https://github.com/wangzelin007/wangzelin007/blob/main/icons/flask.png" align="left" alt="Flask" width="50px"/></a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/wangzelin007/wangzelin007/blob/main/icons/mysql.png" align="left" alt="Mysql" width="50px"/> </a>
+<a href="https://www.openstack.org/" target="_blank"> <img src="https://github.com/wangzelin007/wangzelin007/blob/main/icons/openstack.png" align="left" alt="Openstack" width="50px"/> </a>
+<a href="https://www.postgresql.org/" target="_blank"> <img src="https://github.com/wangzelin007/wangzelin007/blob/main/icons/postgre.png" align="left" alt="Postgre" width="50px"/> </a>
+<a href="https://redis.io/" target="_blank"> <img src="https://github.com/wangzelin007/wangzelin007/blob/main/icons/redis.png" align="left" alt="Redis" width="50px"/> </a>
 <br>
 <br>
 
