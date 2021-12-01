@@ -3,7 +3,8 @@
 I am Zelin Wang.
 
 ## 🔭 I’m currently working on
-<a href="https://github.com/Azure/azure-cli" target="_blank"><img src="https://github.com/wangzelin007/wangzelin007/blob/main/icons/microsoft.png" align="left" alt="Kubernetes" width="28px"/></img></a>
+<a href="https://www.microsoft.com/en-sg/" target="_blank"><img src="https://github.com/wangzelin007/wangzelin007/blob/main/icons/microsoft.png" align="left" alt="Microsoft" width="28px"/></img></a>
+<a href="https://azure.microsoft.com/en-us/" target="_blank"><img src="https://github.com/wangzelin007/wangzelin007/blob/main/icons/azure.png" align="left" alt="Azure" width="28px"/></img></a>
 <br>
 - Microsoft Azure
   - [Azure-cli](https://github.com/Azure/azure-cli): A great cloud needs great tools; we're excited to introduce Azure CLI, our next generation multi-platform command line experience for Azure.
