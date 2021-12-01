@@ -3,7 +3,7 @@
 I am Zelin Wang.
 
 ## 🔭 I’m currently working on
-<a href="https://github.com/Azure/azure-cli" target="_blank"><img src="https://github.com/wangzelin007/wangzelin007/blob/main/icons/microsoft.ico" align="left" alt="Kubernetes" width="28px"/></img></a>
+<a href="https://github.com/Azure/azure-cli" target="_blank"><img src="https://github.com/wangzelin007/wangzelin007/blob/main/icons/microsoft.png" align="left" alt="Kubernetes" width="28px"/></img></a>
 <br>
 - Microsoft Azure
   - [Azure-cli](https://github.com/Azure/azure-cli): A great cloud needs great tools; we're excited to introduce Azure CLI, our next generation multi-platform command line experience for Azure.
@@ -13,6 +13,19 @@ I am Zelin Wang.
 ## ⚡ Languages
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wangzelin007&hide=html,css&layout=compact&langs_count=10)
+
+## 🌱 Skills
+
+<a href="https://www.python.org" target="_blank"> <img src="https://github.com/wangzelin007/wangzelin007/blob/main/icons/ansible.png" align="left" alt="Ansible" width="26px"/></a>
+<a href="https://etcd.io/" target="_blank"><img src="https://github.com/wangzelin007/wangzelin007/blob/main/icons/etcd.png" align="left" alt="Etcd" width="28px"/></a>
+<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"><img src="https://github.com/wangzelin007/wangzelin007/blob/main/icons/flask.png" align="left" alt="Flask" width="30px"/></a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/wangzelin007/wangzelin007/blob/main/icons/mysql.png" align="left" alt="Mysql" width="26px"/> </a>
+<a href="https://www.openstack.org/" target="_blank"> <img src="https://github.com/wangzelin007/wangzelin007/blob/main/icons/openstack.png" align="left" alt="Openstack" width="26px"/> </a>
+<a href="https://www.postgresql.org/" target="_blank"> <img src="https://github.com/wangzelin007/wangzelin007/blob/main/icons/postgre.png" align="left" alt="Postgre" width="26px"/> </a>
+<a href="https://redis.io/" target="_blank"> <img src="https://github.com/wangzelin007/wangzelin007/blob/main/icons/redis.png" align="left" alt="Redis" width="26px"/> </a>
+<br>
+<br>
+
 
 ## Contact Me
 - 📫 Work Email : zelinwang@microsoft.com
