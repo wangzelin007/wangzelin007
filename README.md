@@ -16,7 +16,7 @@ I am Zelin Wang.
 
 ## 🌱 Skills
 
-<a href="https://www.ansible.com/" target="_blank"> <img src="https://github.com/wangzelin007/wangzelin007/blob/main/icons/ansible.png" align="left" alt="Ansible" width="45px"/></a>
+<a href="https://www.ansible.com/" target="_blank"> <img src="https://github.com/wangzelin007/wangzelin007/blob/main/icons/ansible.png" align="left" alt="Ansible" width="40px"/></a>
 <a href="https://etcd.io/" target="_blank"><img src="https://github.com/wangzelin007/wangzelin007/blob/main/icons/etcd.png" align="left" alt="Etcd" width="50px"/></a>
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"><img src="https://github.com/wangzelin007/wangzelin007/blob/main/icons/flask.png" align="left" alt="Flask" width="50px"/></a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/wangzelin007/wangzelin007/blob/main/icons/mysql.png" align="left" alt="Mysql" width="50px"/> </a>
