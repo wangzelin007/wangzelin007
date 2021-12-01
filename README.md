@@ -27,7 +27,7 @@ I am Zelin Wang.
 <br>
 <br>
 
+## 📫 Contact Me
 
-## Contact Me
-- 📫 Work Email : zelinwang@microsoft.com
-- 📫 Personal Email: 1064534588@qq.com
+- Work Email : zelinwang@microsoft.com
+- Personal Email: 1064534588@qq.com
