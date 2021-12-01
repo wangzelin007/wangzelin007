@@ -24,8 +24,6 @@ I am Zelin Wang.
 <a href="https://www.openstack.org/" target="_blank"> <img src="https://github.com/wangzelin007/wangzelin007/blob/main/icons/openstack.png" align="left" alt="Openstack" width="50px"/> </a>
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://github.com/wangzelin007/wangzelin007/blob/main/icons/postgre.png" align="left" alt="Postgre" width="50px"/> </a>
 <a href="https://redis.io/" target="_blank"> <img src="https://github.com/wangzelin007/wangzelin007/blob/main/icons/redis.png" align="left" alt="Redis" width="50px"/> </a>
-<br>
-<br>
 
 ## 📫 Contact Me
 
