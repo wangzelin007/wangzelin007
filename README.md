@@ -11,9 +11,14 @@ I am Zelin Wang.
   - [Azure-cli-extension](https://github.com/Azure/azure-cli-extensions): Extensions for Azure CLI 2.0.
   - [Azure-cli-dev-tools](https://github.com/Azure/azure-cli-dev-tools): The azdev tool is designed to aid new and experienced developers in contributing to Azure CLI command modules and extensions.
 
-## ⚡ Languages
+## ⚡ Summary
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wangzelin007&hide=html,css&layout=compact&langs_count=10)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wangzelin007&count_private=true&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangzelin007&langs_count=8&theme=dark&count_private=true&layout=compact&hide=javascript,html,css,CoffeeScript&card_width=250" />
+</a>
 
 ## 🌱 Skills
 
