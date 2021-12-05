@@ -3,8 +3,10 @@
 I am Zelin Wang.
 
 ## 🔭 I’m currently working on
+
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/microsoft.svg"/></img></a>
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/microsoftazure.svg"/></img></a>
+
 - Microsoft Azure
   - [Azure-cli](https://github.com/Azure/azure-cli): A great cloud needs great tools; we're excited to introduce Azure CLI, our next generation multi-platform command line experience for Azure.
   - [Azure-cli-extension](https://github.com/Azure/azure-cli-extensions): Extensions for Azure CLI 2.0.
