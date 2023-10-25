@@ -16,12 +16,9 @@ I am Zelin Wang.
 
 ## ⚡ Summary
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wangzelin007&count_private=true&show_icons=true&theme=light" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangzelin007&langs_count=8&theme=light&count_private=true&layout=compact&hide=javascript,html,css,CoffeeScript&card_width=250" />
-</a>
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangzelin007&langs_count=8&theme=light&count_private=true&layout=compact&hide=javascript,html,css,CoffeeScript&card_width=250" /> </p>
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=wangzelin007&count_private=true&show_icons=true&theme=light" /> </p>
+<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wangzelin007" alt="doggy8088" /> </p>
 
 ## 🌱 Skills
 
