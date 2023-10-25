@@ -34,6 +34,8 @@ I am Zelin Wang.
   <a href="https://azure.microsoft.com/en-us/products/functions" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/azurefunctions.svg" alt="azurefunctions" width="40" height="40"/> </a>
   <a href="https://azure.microsoft.com/en-us/products/devops/pipelines" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/azurepipelines.svg" alt="azurepipelines" width="40" height="40"/> </a>
   <a href="https://www.css3.com" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" alt="css3" width="40" height="40"/> </a>
+  <a href="https://curl.se" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/curl.svg" alt="curl" width="40" height="40"/> </a>                                                                                                             
+  <a href="https://www.elastic.co" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/elastic.svg" alt="elastic" width="40" height="40"/> </a>
   <a href="https://www.docker.com" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/docker.svg" alt="docker" width="40" height="40"/> </a>
   <a href="https://en.wikipedia.org/wiki/Env" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/dotenv.svg" alt="dotenv" width="40" height="40"/> </a>
   <a href="https://etcd.io" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/etcd.svg" alt="etcd" width="40" height="40"/> </a>
@@ -46,13 +48,16 @@ I am Zelin Wang.
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.jenkins.io" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/jenkins.svg" alt="jenkins" width="40" height="40"/> </a>
+  <a href="https://jupyter.org" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/jupyter.svg" alt="jupyter" width="40" height="40"/> </a>
   <a href="https://kubernetes.io" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kubernetes.svg" alt="kubernetes" width="40" height="40"/> </a>
   <a href="https://www.linux.org" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linux.svg" alt="linux" width="40" height="40"/> </a>
   <a href="https://en.wikipedia.org/wiki/MacOS" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/macos.svg" alt="macos" width="40" height="40"/> </a>
   <a href="https://www.mysql.com" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mysql.svg" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://nginx.org/en/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nginx.svg" alt="nginx" width="40" height="40"/> </a>
   <a href="https://openai.com" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/openai.svg" alt="openai" width="40" height="40"/> </a>
   <a href="https://www.openstack.org" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/openstack.svg" alt="openstack" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postgresql.svg" alt="postgresql" width="40" height="40"/> </a>
+  <a href="https://www.postman.com" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postman.svg" alt="postman" width="40" height="40"/> </a>
   <a href="https://github.com/PowerShell/PowerShell" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/powershell.svg" alt="powershell" width="40" height="40"/> </a>
   <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/pycharm.svg" alt="pycharm" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" alt="python" width="40" height="40"/> </a>
